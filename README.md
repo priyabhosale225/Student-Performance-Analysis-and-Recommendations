@@ -6,6 +6,14 @@ This project analyzes student performance based on quiz submissions to provide p
 - **Current Quiz Data**: Contains the details of the latest quiz submission, including topics, responses, and scores.
 - **Historical Quiz Data**: Contains performance data from the last 5 quizzes for each student, including scores and response maps.
 
+## Data
+Data Overview:
+You will work with two datasets:
+Current Quiz Data
+Details of a user’s latest quiz submission, including questions, topics, and responses, etc. Quiz Endpoint, Quiz Submission Data.
+Historical Quiz Data 
+Performance data from the last 5 quizzes for each user, including scores and  response map (Key:Question Id, Value: Selected option id).  - API Endpoint.
+
 ### Objective
 The goal is to:
 ## 1) Analyze the Data:
